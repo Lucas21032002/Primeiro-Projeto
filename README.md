@@ -1,2 +1,3 @@
 # Primeiro-Projeto
-Qualquer coisa por enquanto
+Pagina feita com HTML e CSS puro.
+
